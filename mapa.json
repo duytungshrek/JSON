@@ -1,0 +1,25 @@
+{
+   "candidates" : [
+      {
+         "formatted_address" : "274 Khâm Thiên, Thổ Quan, Đống Đa, Hà Nội, Việt Nam",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.0193794,
+               "lng" : 105.834098
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.02067887989272,
+                  "lng" : 105.8354441298927
+               },
+               "southwest" : {
+                  "lat" : 21.01797922010728,
+                  "lng" : 105.8327444701073
+               }
+            }
+         },
+         "name" : "274 Khâm Thiên"
+      }
+   ],
+   "status" : "OK"
+}
