@@ -1,45 +1,25 @@
 {
-  "candidates": [
-    {
-      "formatted_address": "500 Đê la Thành, Phương Liên, Đống Đa, Hà Nội, Việt Nam",
-      "geometry": {
-        "location": {
-          "lat": 21.0136799,
-          "lng": 105.835255
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 21.01502972989272,
-            "lng": 105.8366048298927
-          },
-          "southwest": {
-            "lat": 21.01233007010728,
-            "lng": 105.8339051701073
-          }
-        }
-      },
-      "name": "500 Đê la Thành"
-    },
-    {
-      "formatted_address": "500 Đường La Thành, Chợ Dừa, Đống Đa, Hà Nội, Việt Nam",
-      "geometry": {
-        "location": {
-          "lat": 21.0233213,
-          "lng": 105.8206444
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 21.02462402989272,
-            "lng": 105.8219832798927
-          },
-          "southwest": {
-            "lat": 21.02192437010728,
-            "lng": 105.8192836201073
-          }
-        }
-      },
-      "name": "500 Đường La Thành"
-    }
-  ],
-  "status": "OK"
+   "candidates" : [
+      {
+         "formatted_address" : "274 Khâm Thiên, Thổ Quan, Đống Đa, Hà Nội, Việt Nam",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.0193794,
+               "lng" : 105.834098
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.02067887989272,
+                  "lng" : 105.8354441298927
+               },
+               "southwest" : {
+                  "lat" : 21.01797922010728,
+                  "lng" : 105.8327444701073
+               }
+            }
+         },
+         "name" : "274 Khâm Thiên"
+      }
+   ],
+   "status" : "OK"
 }
