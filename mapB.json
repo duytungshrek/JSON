@@ -1,0 +1,25 @@
+{
+   "candidates" : [
+      {
+         "formatted_address" : "Giải Phóng, Giáp Bát, Hoàng Mai, Hà Nội, Việt Nam",
+         "geometry" : {
+            "location" : {
+               "lat" : 20.9802148,
+               "lng" : 105.8414544
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.98160382989272,
+                  "lng" : 105.8426125798927
+               },
+               "southwest" : {
+                  "lat" : 20.97890417010728,
+                  "lng" : 105.8399129201073
+               }
+            }
+         },
+         "name" : "Bến xe Giáp Bát"
+      }
+   ],
+   "status" : "OK"
+}
