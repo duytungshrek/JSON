@@ -1,0 +1,25 @@
+{
+   "candidates" : [
+      {
+         "formatted_address" : "1 Đại Cồ Việt, Bách Khoa, Hai Bà Trưng, Hà Nội, Việt Nam",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.0048067,
+               "lng" : 105.8453406
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.00615642989272,
+                  "lng" : 105.8467493798927
+               },
+               "southwest" : {
+                  "lat" : 21.00345677010728,
+                  "lng" : 105.8440497201073
+               }
+            }
+         },
+         "name" : "Trường Đại học Bách khoa Hà Nội"
+      }
+   ],
+   "status" : "OK"
+}

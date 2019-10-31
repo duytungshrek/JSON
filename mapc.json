@@ -1,44 +1,24 @@
 {
    "candidates" : [
       {
-         "formatted_address" : "300 Đê la Thành, Nam Đồng, Đống Đa, Hà Nội, Việt Nam",
+         "formatted_address" : "300 Đường La Thành, Thổ Quan, Đống Đa, Hà Nội 10000, Việt Nam",
          "geometry" : {
             "location" : {
-               "lat" : 21.0176284,
-               "lng" : 105.8314394
+               "lat" : 21.0177995,
+               "lng" : 105.8314942
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 21.01897477989272,
-                  "lng" : 105.8327846798927
+                  "lat" : 21.01909037989272,
+                  "lng" : 105.8327674798927
                },
                "southwest" : {
-                  "lat" : 21.01627512010727,
-                  "lng" : 105.8300850201073
+                  "lat" : 21.01639072010728,
+                  "lng" : 105.8300678201073
                }
             }
          },
-         "name" : "300 Đê la Thành"
-      },
-      {
-         "formatted_address" : "300 Đường La Thành, Chợ Dừa, Đống Đa, Hà Nội, Việt Nam",
-         "geometry" : {
-            "location" : {
-               "lat" : 21.0218014,
-               "lng" : 105.8247068
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 21.02311717989272,
-                  "lng" : 105.8260373798927
-               },
-               "southwest" : {
-                  "lat" : 21.02041752010727,
-                  "lng" : 105.8233377201073
-               }
-            }
-         },
-         "name" : "300 Đường La Thành"
+         "name" : "Magenest JSC"
       }
    ],
    "status" : "OK"

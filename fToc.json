@@ -1,0 +1,253 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ122rzHasNTERA32pB1sq6VU",
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ-_3hAHusNTER2hTxWtlHde4",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 21.0176816,
+               "lng" : 105.8467437
+            },
+            "southwest" : {
+               "lat" : 21.0048065,
+               "lng" : 105.8313411
+            }
+         },
+         "copyrights" : "Dữ liệu bản đồ ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2,9 km",
+                  "value" : 2872
+               },
+               "duration" : {
+                  "text" : "9 phút",
+                  "value" : 523
+               },
+               "end_address" : "9F, 300 Đường La Thành, Thổ Quan, Đống Đa, Hà Nội 10000, Việt Nam",
+               "end_location" : {
+                  "lat" : 21.0176816,
+                  "lng" : 105.8313411
+               },
+               "start_address" : "1 Đại Cồ Việt, Bách Khoa, Hai Bà Trưng, Hà Nội, Việt Nam",
+               "start_location" : {
+                  "lat" : 21.0048065,
+                  "lng" : 105.8454585
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "43 m",
+                        "value" : 43
+                     },
+                     "duration" : {
+                        "text" : "1 phút",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 21.0050001,
+                        "lng" : 105.8456547
+                     },
+                     "html_instructions" : "Đi về hướng \u003cb\u003eBắc\u003c/b\u003e lên \u003cb\u003eBãi gửi xe\u003c/b\u003e về phía \u003cb\u003eTrần Đại Nghĩa\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eĐường bị giới hạn sử dụng\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "aoe_Cc}_eSg@?@e@"
+                     },
+                     "start_location" : {
+                        "lat" : 21.0048065,
+                        "lng" : 105.8454585
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,4 km",
+                        "value" : 351
+                     },
+                     "duration" : {
+                        "text" : "1 phút",
+                        "value" : 67
+                     },
+                     "end_location" : {
+                        "lat" : 21.0073651,
+                        "lng" : 105.843997
+                     },
+                     "html_instructions" : "Rẽ \u003cb\u003etrái\u003c/b\u003e tại Highlands Coffee vào \u003cb\u003eTrần Đại Nghĩa\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eBăng qua ĐẠI HỌC BÁCH KHOA CỔNG TRẦN ĐẠI NGHĨA (ở phía bên trái)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gpe_Ci~_eSQAc@@uD@QHOJSPKLQPUTi@r@CDINSd@GLAJEPIZGPU^"
+                     },
+                     "start_location" : {
+                        "lat" : 21.0050001,
+                        "lng" : 105.8456547
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,3 km",
+                        "value" : 315
+                     },
+                     "duration" : {
+                        "text" : "1 phút",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 21.0080247,
+                        "lng" : 105.8467437
+                     },
+                     "html_instructions" : "Rẽ \u003cb\u003ephải\u003c/b\u003e tại Quán Linhcoffee vào \u003cb\u003eĐại Cồ Việt\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eBăng qua Cửa hàng phong thủy Địa Kim Châu (ở phía bên phải)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "a_f_C_t_eSO?KAMESMGo@IWOoDMsAGu@KkC"
+                     },
+                     "start_location" : {
+                        "lat" : 21.0073651,
+                        "lng" : 105.843997
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,2 km",
+                        "value" : 215
+                     },
+                     "duration" : {
+                        "text" : "1 phút",
+                        "value" : 48
+                     },
+                     "end_location" : {
+                        "lat" : 21.0080111,
+                        "lng" : 105.8448239
+                     },
+                     "html_instructions" : "Vòng \u003cb\u003engược lại\u003c/b\u003e tại Cà Phê Minion\u003cdiv style=\"font-size:0.9em\"\u003eBăng qua CÔNG TY SỬA CỬA CUỐN (ở phía bên phải)\u003c/div\u003e",
+                     "maneuver" : "uturn-left",
+                     "polyline" : {
+                        "points" : "ccf_Cce`eSa@FJtA@d@@r@Bz@J|ABl@"
+                     },
+                     "start_location" : {
+                        "lat" : 21.0080247,
+                        "lng" : 105.8467437
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,8 km",
+                        "value" : 796
+                     },
+                     "duration" : {
+                        "text" : "1 phút",
+                        "value" : 78
+                     },
+                     "end_location" : {
+                        "lat" : 21.0098623,
+                        "lng" : 105.8380829
+                     },
+                     "html_instructions" : "Chếch sang \u003cb\u003etrái\u003c/b\u003e tại Cửa Hàng Đtdđ Mạnh vào \u003cb\u003eHầm Kim Liên\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eBăng qua Hầm Kim Liên (ở bên trái cách 350&nbsp;m)\u003c/div\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "acf_Ccy_eSN\\NlAJnAR|CBZDp@Bv@ExAC^E^Ab@A\\Cb@Gv@Kp@K^Md@a@bAk@fA_@j@[\\[\\]^_B|Aq@n@c@P"
+                     },
+                     "start_location" : {
+                        "lat" : 21.0080111,
+                        "lng" : 105.8448239
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,6 km",
+                        "value" : 650
+                     },
+                     "duration" : {
+                        "text" : "2 phút",
+                        "value" : 120
+                     },
+                     "end_location" : {
+                        "lat" : 21.0143479,
+                        "lng" : 105.8340984
+                     },
+                     "html_instructions" : "Nhập vào \u003cb\u003eXã Đàn\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eBăng qua Tư Vấn Phụ Khoa 24/\u003cwbr/\u003e24 (ở phía bên phải)\u003c/div\u003e",
+                     "maneuver" : "merge",
+                     "polyline" : {
+                        "points" : "snf_C_o~dSiAr@GDo@^w@j@a@TaAl@SN[Xm@l@aA`Aa@b@_CzB}CbCcCrC"
+                     },
+                     "start_location" : {
+                        "lat" : 21.0098623,
+                        "lng" : 105.8380829
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "42 m",
+                        "value" : 42
+                     },
+                     "duration" : {
+                        "text" : "1 phút",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 21.0146455,
+                        "lng" : 105.8343523
+                     },
+                     "html_instructions" : "Rẽ \u003cb\u003ephải\u003c/b\u003e tại Trẻ Hóa Da Multi-Layer® by Dr. Nghị - Nguyên Trưởng Khoa Laser BV 108 vào \u003cb\u003ePhố Trung Phụng\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eBăng qua Cửa Hàng Phụ Kiện Đtdđ (ở phía bên phải)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ujg_Ccv}dS{@q@"
+                     },
+                     "start_location" : {
+                        "lat" : 21.0143479,
+                        "lng" : 105.8340984
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,5 km",
+                        "value" : 460
+                     },
+                     "duration" : {
+                        "text" : "2 phút",
+                        "value" : 115
+                     },
+                     "end_location" : {
+                        "lat" : 21.0176816,
+                        "lng" : 105.8313411
+                     },
+                     "html_instructions" : "Rẽ \u003cb\u003etrái\u003c/b\u003e tại Sửa chữa tủ bếp Tại Nhà vào \u003cb\u003eĐê la Thành\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eBăng qua CÔNG TY CPXD ALUMAX VIỆT NAM (ở phía bên phải)\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eĐiểm đến sẽ ở bên phải\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qlg_Cuw}dSa@`@o@l@WVaA~@cB~AGDWXu@p@gAjA}@|@]b@_A~@SP"
+                     },
+                     "start_location" : {
+                        "lat" : 21.0146455,
+                        "lng" : 105.8343523
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "aoe_Cc}_eSg@?@e@u@?uD@QHc@\\]^_AhAi@hAG\\Ql@U^O?YGSMGo@IWOoDUiCKkCa@FLzBDnBNjCN\\NlA^lFHlABv@ExAI~@C`AKzAWpAo@hBk@fA_@j@w@z@}B|Bq@n@c@PqAx@gBjAcBbAo@h@qGnG}CbCcCrC{@q@a@`@gAdAeD~C}C|C{A`BsApA"
+         },
+         "summary" : "Hầm Kim Liên",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
