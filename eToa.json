@@ -1,0 +1,253 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJEQB--OurNTERK41Q2gDyemQ",
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJH9EhXYOrNTERa5kCvQqr4Bc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 21.0248991,
+               "lng" : 105.8573429
+            },
+            "southwest" : {
+               "lat" : 21.0188359,
+               "lng" : 105.8340906
+            }
+         },
+         "copyrights" : "Dữ liệu bản đồ ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3,3 km",
+                  "value" : 3313
+               },
+               "duration" : {
+                  "text" : "13 phút",
+                  "value" : 776
+               },
+               "end_address" : "274 Khâm Thiên, Thổ Quan, Đống Đa, Hà Nội, Việt Nam",
+               "end_location" : {
+                  "lat" : 21.0192787,
+                  "lng" : 105.8340906
+               },
+               "start_address" : "Số 01 Tràng Tiền, Phan Chu Trinh, Hoàn Kiếm, Hà Nội 100000, Việt Nam",
+               "start_location" : {
+                  "lat" : 21.0244937,
+                  "lng" : 105.8573429
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "16 m",
+                        "value" : 16
+                     },
+                     "duration" : {
+                        "text" : "1 phút",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 21.0244434,
+                        "lng" : 105.8572036
+                     },
+                     "html_instructions" : "Đi về hướng \u003cb\u003eTây\u003c/b\u003e lên \u003cb\u003eTràng Tiền\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "aji_CkgbeSHZ"
+                     },
+                     "start_location" : {
+                        "lat" : 21.0244937,
+                        "lng" : 105.8573429
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,2 km",
+                        "value" : 225
+                     },
+                     "duration" : {
+                        "text" : "1 phút",
+                        "value" : 61
+                     },
+                     "end_location" : {
+                        "lat" : 21.0248991,
+                        "lng" : 105.8551665
+                     },
+                     "html_instructions" : "Tại vòng xuyến, đi theo lối ra \u003cb\u003ethứ 3\u003c/b\u003e và vào \u003cb\u003eTràng Tiền\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eBăng qua Công Ty Tnhh Indochina Finance &amp; Investment Việt Nam (ở phía bên trái)\u003c/div\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "wii_CofbeSA?AB?@A??@?@?@?@?@?@?@?@?@@@?@@@?@@??@@?@@D@{@`Fi@lC"
+                     },
+                     "start_location" : {
+                        "lat" : 21.0244434,
+                        "lng" : 105.8572036
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,5 km",
+                        "value" : 509
+                     },
+                     "duration" : {
+                        "text" : "2 phút",
+                        "value" : 137
+                     },
+                     "end_location" : {
+                        "lat" : 21.0205289,
+                        "lng" : 105.8537127
+                     },
+                     "html_instructions" : "Rẽ \u003cb\u003etrái\u003c/b\u003e tại học viện chính trị vào \u003cb\u003ePhố Ngô Quyền\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eBăng qua PVcombank - Hội sở (ở phía bên phải)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "sli_CyyaeStFrAjCj@rCr@xA\\zBh@|Bf@"
+                     },
+                     "start_location" : {
+                        "lat" : 21.0248991,
+                        "lng" : 105.8551665
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,9 km",
+                        "value" : 905
+                     },
+                     "duration" : {
+                        "text" : "4 phút",
+                        "value" : 210
+                     },
+                     "end_location" : {
+                        "lat" : 21.0229949,
+                        "lng" : 105.8454035
+                     },
+                     "html_instructions" : "Rẽ \u003cb\u003ephải\u003c/b\u003e tại Agence France-Presse vào \u003cb\u003eTrần Hưng Đạo\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eBăng qua Ambassade de France (ở bên trái cách 300&nbsp;m)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "iqh_CupaeSa@pBI`@c@jB?DKb@qBbKOl@kAtGm@|DMj@a@dBIZKb@W`Au@xD"
+                     },
+                     "start_location" : {
+                        "lat" : 21.0205289,
+                        "lng" : 105.8537127
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,4 km",
+                        "value" : 377
+                     },
+                     "duration" : {
+                        "text" : "1 phút",
+                        "value" : 87
+                     },
+                     "end_location" : {
+                        "lat" : 21.0197611,
+                        "lng" : 105.8443219
+                     },
+                     "html_instructions" : "Rẽ \u003cb\u003etrái \u003c/b\u003e tại Nhà Xuất Bản Giao Thông Vận Tải\u003cdiv style=\"font-size:0.9em\"\u003eBăng qua Trung Tâm Triển Lãm Quốc Tế Ice Hà Nội (ở phía bên phải)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "u`i_Cw|_eSj@LtItBhB^PDr@NrA\\"
+                     },
+                     "start_location" : {
+                        "lat" : 21.0229949,
+                        "lng" : 105.8454035
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,3 km",
+                        "value" : 319
+                     },
+                     "duration" : {
+                        "text" : "1 phút",
+                        "value" : 75
+                     },
+                     "end_location" : {
+                        "lat" : 21.0206629,
+                        "lng" : 105.8414074
+                     },
+                     "html_instructions" : "Rẽ \u003cb\u003ephải\u003c/b\u003e tại CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ VÀ QUẢNG CÁO GIA KHÁNH\u003cdiv style=\"font-size:0.9em\"\u003eBăng qua Xoi Ngon Gia Truyen Tuong Mai (ở phía bên phải)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "olh_C_v_eSgBfIi@dCa@vB"
+                     },
+                     "start_location" : {
+                        "lat" : 21.0197611,
+                        "lng" : 105.8443219
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,2 km",
+                        "value" : 203
+                     },
+                     "duration" : {
+                        "text" : "1 phút",
+                        "value" : 43
+                     },
+                     "end_location" : {
+                        "lat" : 21.0188359,
+                        "lng" : 105.8413875
+                     },
+                     "html_instructions" : "Rẽ \u003cb\u003etrái\u003c/b\u003e tại TiK Nail - 132 Lê Duẩn vào \u003cb\u003eĐường Lê Duẩn\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eBăng qua Trung Tâm Sửa Chữa Bảo Dưỡng Thailand Motor 3 (ở phía bên phải)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "crh_Cyc_eSrC?`BAtBD"
+                     },
+                     "start_location" : {
+                        "lat" : 21.0206629,
+                        "lng" : 105.8414074
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,8 km",
+                        "value" : 759
+                     },
+                     "duration" : {
+                        "text" : "3 phút",
+                        "value" : 159
+                     },
+                     "end_location" : {
+                        "lat" : 21.0192787,
+                        "lng" : 105.8340906
+                     },
+                     "html_instructions" : "Rẽ \u003cb\u003ephải\u003c/b\u003e sau Quán Bia Hơi Cường Nga (ở bên phải)\u003cdiv style=\"font-size:0.9em\"\u003eMột số phần của đường này có thể chỉ dành cho xe chở nhiều người (HOV) vào một số giờ hoặc ngày\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eBăng qua Nasal Cool (ở phía bên trái)\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eĐiểm đến sẽ ở bên phải\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wfh_Cuc_eS?hBE`AElA?JAb@ARCz@ALCx@?NANChAAt@CrA?JANCt@EbAE`BElA?HErDA^ARAd@Ez@Cn@Cn@?B"
+                     },
+                     "start_location" : {
+                        "lat" : 21.0188359,
+                        "lng" : 105.8413875
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "aji_CkgbeSFZADAB?FFNFBeBnJ`K~BlFpAxFpAk@rCaDxO{AbI{@hFoAfFu@xDj@LtItBhB^dATrA\\gBfIkA|FtFAtBD?hBKnCG~BGfBI~EQjFMjHMdDCr@"
+         },
+         "summary" : "Trần Hưng Đạo",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

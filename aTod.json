@@ -1,0 +1,157 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJH9EhXYOrNTERa5kCvQqr4Bc",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJo2hZWoKrNTERVY6qcXEIb0M",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 21.0194217,
+               "lng" : 105.8340906
+            },
+            "southwest" : {
+               "lat" : 21.0170893,
+               "lng" : 105.8295416
+            }
+         },
+         "copyrights" : "Dữ liệu bản đồ ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0,8 km",
+                  "value" : 768
+               },
+               "duration" : {
+                  "text" : "3 phút",
+                  "value" : 199
+               },
+               "end_address" : "500 Xã Đàn, Nam Đồng, Đống Đa, Hà Nội, Việt Nam",
+               "end_location" : {
+                  "lat" : 21.0173215,
+                  "lng" : 105.8310217
+               },
+               "start_address" : "274 Khâm Thiên, Thổ Quan, Đống Đa, Hà Nội, Việt Nam",
+               "start_location" : {
+                  "lat" : 21.0192787,
+                  "lng" : 105.8340906
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0,4 km",
+                        "value" : 420
+                     },
+                     "duration" : {
+                        "text" : "2 phút",
+                        "value" : 98
+                     },
+                     "end_location" : {
+                        "lat" : 21.0188937,
+                        "lng" : 105.8301691
+                     },
+                     "html_instructions" : "Đi về hướng \u003cb\u003eTây\u003c/b\u003e lên \u003cb\u003eKhâm Thiên\u003c/b\u003e về phía \u003cb\u003eThổ Quan\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eBăng qua Quán Chè 219 (ở phía bên trái)\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "oih_Cav}dSAp@CdAA|@Cf@GhDENAr@?J@XBXBL?@Lh@Pb@JXVt@DJJZDP@F?D@B?H"
+                     },
+                     "start_location" : {
+                        "lat" : 21.0192787,
+                        "lng" : 105.8340906
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "91 m",
+                        "value" : 91
+                     },
+                     "duration" : {
+                        "text" : "1 phút",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 21.0183981,
+                        "lng" : 105.829674
+                     },
+                     "html_instructions" : "Rẽ \u003cb\u003etrái\u003c/b\u003e sau Y3 SHOP (ở bên phải)\u003cdiv style=\"font-size:0.9em\"\u003eBăng qua Công Ty Cổ Phần Biorganic (ở phía bên trái)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "agh_Cq}|dSO^d@TjAl@"
+                     },
+                     "start_location" : {
+                        "lat" : 21.0188937,
+                        "lng" : 105.8301691
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,2 km",
+                        "value" : 220
+                     },
+                     "duration" : {
+                        "text" : "1 phút",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : 21.0170893,
+                        "lng" : 105.8309561
+                     },
+                     "html_instructions" : "Rẽ \u003cb\u003etrái\u003c/b\u003e vào \u003cb\u003eXã Đàn\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eBăng qua Công Ty TNHH Nhà Nước Một Thành Viên Chiếu Sáng &amp; Thiết Bị Đô Thị (ở phía bên phải)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_dh_Cmz|dSp@XTSp@o@x@gBt@iAZe@"
+                     },
+                     "start_location" : {
+                        "lat" : 21.0183981,
+                        "lng" : 105.829674
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "37 m",
+                        "value" : 37
+                     },
+                     "duration" : {
+                        "text" : "1 phút",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 21.0173215,
+                        "lng" : 105.8310217
+                     },
+                     "html_instructions" : "Vòng \u003cb\u003engược lại\u003c/b\u003e tại Công Ty Cổ Phần Điện\u003cdiv style=\"font-size:0.9em\"\u003eĐiểm đến sẽ ở bên phải\u003c/div\u003e",
+                     "maneuver" : "uturn-left",
+                     "polyline" : {
+                        "points" : "y{g_Cob}dS]_@OR"
+                     },
+                     "start_location" : {
+                        "lat" : 21.0170893,
+                        "lng" : 105.8309561
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "oih_Cav}dSK|EGhDENA~@HbA^lAb@nAX`A@H?HO^pBbAp@XTSp@o@x@gBpAoB]_@OR"
+         },
+         "summary" : "Khâm Thiên và Xã Đàn",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

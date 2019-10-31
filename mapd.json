@@ -1,0 +1,25 @@
+{
+   "candidates" : [
+      {
+         "formatted_address" : "500 Xã Đàn, Nam Đồng, Đống Đa, Hà Nội, Việt Nam",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.0174227,
+               "lng" : 105.8311168
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.01872192989272,
+                  "lng" : 105.8324190798927
+               },
+               "southwest" : {
+                  "lat" : 21.01602227010727,
+                  "lng" : 105.8297194201073
+               }
+            }
+         },
+         "name" : "500 Xã Đàn"
+      }
+   ],
+   "status" : "OK"
+}

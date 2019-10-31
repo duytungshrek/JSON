@@ -1,0 +1,25 @@
+{
+   "candidates" : [
+      {
+         "formatted_address" : "Số 01 Tràng Tiền, Phan Chu Trinh, Hoàn Kiếm, Hà Nội 100000, Việt Nam",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.024184,
+               "lng" : 105.857857
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.02553942989272,
+                  "lng" : 105.8590857298927
+               },
+               "southwest" : {
+                  "lat" : 21.02283977010728,
+                  "lng" : 105.8563860701073
+               }
+            }
+         },
+         "name" : "Nhà Hát Lớn Hà Nội"
+      }
+   ],
+   "status" : "OK"
+}
