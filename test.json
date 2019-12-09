@@ -1,0 +1,58 @@
+﻿{
+  "bestseller": {
+    "items": [
+      {
+        "id": 1941,
+        "sku": "COM0046",
+        "name": "Bộ dụng cụ pha chế",
+        "attribute_set_id": 19,
+        "price": 462000,
+        "status": 1,
+        "visibility": 4,
+        "type_id": "bundle",
+        "created_at": "2018-08-12 19:19:26",
+        "updated_at": "2019-11-29 06:50:19",
+        "weight": 0,
+        "media_gallery_entries": [
+          {
+            "file": "/b/o/bo-ccdc.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1912,
+        "sku": "6001793",
+        "name": "Vòi nước bộ Pha Cà Phê Toddy TCMS",
+        "attribute_set_id": 19,
+        "price": 340000,
+        "status": 1,
+        "visibility": 4,
+        "type_id": "simple",
+        "created_at": "2018-06-26 01:49:20",
+        "updated_at": "2019-11-24 07:46:00",
+        "media_gallery_entries": [
+          {
+            "file": "/v/o/voi_rot_toddy_thuong_mai_-_6001793.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1911,
+        "sku": "6001792",
+        "name": "Nắp đậy bộ Pha Cà Phê Toddy TCML",
+        "attribute_set_id": 19,
+        "price": 2999000,
+        "status": 1,
+        "visibility": 4,
+        "type_id": "simple",
+        "created_at": "2018-06-26 01:43:18",
+        "updated_at": "2019-11-24 07:20:11",
+        "media_gallery_entries": [
+          {
+            "file": "/6/0/6001792.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}
